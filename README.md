@@ -1,8 +1,8 @@
 # flutter_platter
 
-A new Flutter application.
+A Flutter mockup app for practice animation.
 
-## Getting Started
+[![Demo](https://img.youtube.com/vi/_KTMupucIws/0.jpg)](https://www.youtube.com/watch?v=_KTMupucIws "Demo")
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Inspire by Hariofspades
+https://github.com/Hariofspades/MotionLayoutExperiments
