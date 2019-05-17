@@ -262,7 +262,7 @@ class PlatterPageViewItem extends StatelessWidget {
         Column(
           children: <Widget>[
             SizedBox(height: 20.0),
-            SvgPicture.asset(
+            Image.asset(
               "images/veg.svg",
               width: 25.0,
               height: 25.0,
