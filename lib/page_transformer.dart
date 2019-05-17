@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 /// A class that can be used to compute visibility information about
 /// the current page.

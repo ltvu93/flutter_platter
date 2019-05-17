@@ -1,11 +1,11 @@
 import 'dart:async';
 
-import 'package:flutter/material.dart';
-import 'package:flutter_platter/data.dart';
 import 'package:flutter_platter/page_transformer.dart';
 import 'package:flutter_platter/styles.dart';
-import 'package:flutter_svg/svg.dart';
+import 'package:flutter_web/material.dart';
+
 import 'dart:math' as math;
+import 'data.dart';
 
 class MainPage extends StatefulWidget {
   @override
