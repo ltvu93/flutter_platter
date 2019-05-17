@@ -4,6 +4,9 @@ description: A new Flutter application.
 environment:
   sdk: ">=2.2.0 <3.0.0"
 
+flutter:
+  uses-material-design: true
+
 dependencies:
   flutter_web: any
   flutter_web_ui: any
